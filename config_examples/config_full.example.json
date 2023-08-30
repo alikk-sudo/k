@@ -135,8 +135,8 @@
     },
     "telegram": {
         "enabled": false,
-        "token": "your_telegram_token",
-        "chat_id": "your_telegram_chat_id",
+        "token": "6677866190:AAFpxjsxifcOc9BykMazti0fk6PSQ1kKW3I",
+        "chat_id": "5588394964",
         "notification_settings": {
             "status": "on",
             "warning": "on",
